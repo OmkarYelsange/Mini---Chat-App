@@ -14,6 +14,8 @@ Designed as a lightweight yet functional project to demonstrate **Full-Stack Web
 - **Main Chat Window**: Real-time messaging with multiple users.
 - **Active Users List**: See who’s online instantly.
 
+---
+
 ## 📸 Preview / Screenshots
 
 ### 🔐 Create Account / Login Page
@@ -29,9 +31,9 @@ A simple interface to add new users into the chat system.
 ### 💬 Main Interface Page
 The core real-time chat window where users exchange messages.
 
-![Main Chat Interface](./preview/Main_Interface_1.png)
+![Main Chat Interface_1](./preview/Main_Interface_1.png)
 
-![Main Chat Interface](./preview/Main_Interface_2.png)
+![Main Chat Interface_2](./preview/Main_Interface_2.png)
 
 ---
 
@@ -134,4 +136,5 @@ This project is licensed under the MIT License.
 - ESLint - Code linting
 
 ✨ This project highlights my ability to build real-time, full-stack web applications — an essential skill set for modern software development roles.
+
 
