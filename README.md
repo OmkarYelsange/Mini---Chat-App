@@ -21,7 +21,7 @@ Designed as a lightweight yet functional project to demonstrate **Full-Stack Web
 ### 🔐 Create Account / Login Page
 The secure entry point where users can register or log in.
 
-![Create Account & Login](./preview/Create_Account_&_Login.png)
+![Create Account & Login](./preview/Create-Account-&-Login.png)
 
 ### 👤 Add User Page
 A simple interface to add new users into the chat system.
@@ -31,9 +31,9 @@ A simple interface to add new users into the chat system.
 ### 💬 Main Interface Page
 The core real-time chat window where users exchange messages.
 
-![Main Chat Interface_1](./preview/Main_Interface_1.png)
+![Main Chat Interface_1](./preview/Main-Interface-1.png)
 
-![Main Chat Interface_2](./preview/Main_Interface_2.png)
+![Main Chat Interface_2](./preview/Main-Interface-2.png)
 
 ---
 
@@ -136,5 +136,6 @@ This project is licensed under the MIT License.
 - ESLint - Code linting
 
 ✨ This project highlights my ability to build real-time, full-stack web applications — an essential skill set for modern software development roles.
+
 
 
