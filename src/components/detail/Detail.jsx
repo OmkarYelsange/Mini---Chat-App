@@ -3,7 +3,7 @@ import "./detail.css";
 import { auth, db } from "../../lib/firebase";
 import { useChatStore } from "../../lib/chatStore";
 import { useUserStore } from "../../lib/userStore";
-import { arrayRemove, arrayUnion, doc } from "firebase/firestore";
+import { arrayRemove, arrayUnion, doc, updateDoc } from "firebase/firestore";
 
 const Detail = () => {
   const { chatId, user, isCurrentUserBlocked, isReceiverBlocked, changeBlock } =
@@ -28,7 +28,7 @@ const Detail = () => {
       <div className="user">
         <img src="./avatar.png" alt="" />
         <h2>{user?.username}</h2>
-        <p>EAT | SLEEP | WORK | TRAIN | REPEAT</p>
+        <p>About Your Self</p>
       </div>
       <div className="info">
         <div className="option">
